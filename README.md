@@ -35,3 +35,12 @@ Jaeger Console is a user interface that lets you visualize your distributed trac
            3. Create a python virtual env
            4. Activate that virtualenv
            5. Run chaos run command followed by experiment.json file path
+
+
+## UI For Tracing Microservice Logs
+
+![alt-text](https://github.com/Abhishek010397/JAEGER-WITH-CHAOS-MONKEY/blob/master/UI.png)
+
+## Chaos-Run Logs
+
+![alt-text](https://github.com/Abhishek010397/JAEGER-WITH-CHAOS-MONKEY/blob/master/logs.png)
