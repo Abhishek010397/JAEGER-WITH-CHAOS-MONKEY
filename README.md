@@ -44,3 +44,9 @@ Jaeger Console is a user interface that lets you visualize your distributed trac
 ## Chaos-Run Logs
 
 ![alt-text](https://github.com/Abhishek010397/JAEGER-WITH-CHAOS-MONKEY/blob/master/logs.png)
+
+## Output
+
+We will get a random String generated each time when we pass any integer value as our id
+
+![alt-text](https://github.com/Abhishek010397/JAEGER-WITH-CHAOS-MONKEY/blob/master/Output.png)
